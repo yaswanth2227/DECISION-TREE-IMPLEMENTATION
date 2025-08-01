@@ -82,3 +82,6 @@ Conclusion:
 
 A strong foundation for transitioning to advanced machine learning techniques.
 
+**OUTPUT:**
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/96a4e19b-d479-45c7-b14f-b4a66c2eed0d" />
